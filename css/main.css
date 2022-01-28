@@ -1,0 +1,45 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    color: blue;
+    text-decoration: underline;
+
+}
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+   
+    
+}
+select {
+    background-color: whitesmoke;
+    width: 10%;
+    height: 25px;
+}
+option {
+    color: black;
+}
+ul {
+    background-color: white;
+    display: flex;
+    list-style: none;
+}
+a:hover  {
+    color: blue ;
+}
+ ul:hover {
+    color: black;
+}
+ 
+li {
+    padding: 10px;
+}
+h2 {
+    font-weight: 100PX;
+    color: blue;
+    text-decoration: underline;
+}
